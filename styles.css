@@ -22,6 +22,7 @@ a {
 
 body {
   font-family: "Poppins", sans-serif;
+  background-image: url("about.jpg");
 }
 
 nav {
