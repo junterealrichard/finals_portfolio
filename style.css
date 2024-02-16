@@ -170,6 +170,8 @@ section {
   background-image: url(profile-pic.png);
   background-repeat: no-repeat;
   background-size: cover;
+  filter: blur(8px);
+  -webkit-filter: blur(8px)
 }
 
 .section__pic-container {
