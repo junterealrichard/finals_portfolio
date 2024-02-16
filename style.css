@@ -266,7 +266,13 @@ section {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
 
-.btn-container {
+.btn1-container {
+  gap: 2rem;
+}
+.btn2-container {
+  gap: 4rem;
+}
+.btn3-container {
   gap: 1rem;
 }
 
