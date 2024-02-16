@@ -167,9 +167,6 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
-  background-image: url(profile-pic.png);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .bg-image {
