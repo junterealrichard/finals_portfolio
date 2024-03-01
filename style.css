@@ -5,12 +5,12 @@
 * {
   margin: 0;
   padding: 0;
+  background-color: lightblue;
   
 }
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: lightblue;
 }
 
 html {
@@ -289,6 +289,7 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
+  background-color: white;
 }
 
 .about-pic {
@@ -304,7 +305,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background-color: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
