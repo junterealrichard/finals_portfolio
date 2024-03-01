@@ -288,6 +288,7 @@ section {
 .about-details-container {
   display: flex;
   background-color: white;
+  opacity: 1;
 }
 
 .about-pic {
