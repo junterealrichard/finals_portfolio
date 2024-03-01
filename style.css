@@ -5,7 +5,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: lightblue;
+  
   
 }
 
@@ -72,6 +72,7 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+  background-color: lightblue;
 }
 
 .hamburger-menu {
@@ -169,11 +170,8 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-image: url("profile-pic.png");
 }
-
-.bg-image {
-  filter: blur(6px);
-  -webkit-filter: blur(6px);
 }
 .section__pic-container {
   display: flex;
